@@ -1,0 +1,23 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    colorize (0.8.1)
+    ffi (1.9.25-x64-mingw32)
+    fxruby (1.6.39-x64-mingw32)
+      mini_portile2 (~> 2.1)
+    gosu (0.13.3-x64-mingw32)
+    mini_portile2 (2.3.0)
+    rubygl (0.3.2)
+      ffi (~> 1.9, >= 1.9.5)
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  colorize
+  fxruby
+  gosu
+  rubygl
+
+BUNDLED WITH
+   1.16.1
